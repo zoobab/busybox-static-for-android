@@ -63,3 +63,8 @@ Tested devices
 Was succesfully run on:
 
 * HTC wildfire: http://www.zoobab.com/htc-wildfire
+
+Create symlinks
+===============
+
+See this good webpage: http://www.jukie.net/~bart/blog/20081011081638
