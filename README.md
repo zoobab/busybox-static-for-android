@@ -62,7 +62,7 @@ Tested devices
 
 Was succesfully run on:
 
-* HTC wildfire: http://www.zoobab.com/htc-wildfire
+* ARMv6-compatible processor rev 2 (v6l), HTC wildfire, http://www.zoobab.com/htc-wildfire
 
 Create symlinks
 ===============
