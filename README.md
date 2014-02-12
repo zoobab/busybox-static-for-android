@@ -6,6 +6,7 @@ busybox: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically link
 Available commands
 ==================
 
+<code>
 # ./busybox
 BusyBox v1.16.0 (2010-03-22 20:28:28 MST) multi-call binary.
 Copyright (C) 1998-2009 Erik Andersen, Rob Landley, Denys Vlasenko
@@ -56,6 +57,7 @@ Currently defined functions:
         unix2dos, unlzma, unlzop, unzip, uptime, usleep, uudecode, uuencode,
         vconfig, vi, vlock, volname, wall, watch, watchdog, wc, wget, which,
         who, whoami, xargs, yes, zcat, zcip
+</code>
 
 Tested devices
 ==============
